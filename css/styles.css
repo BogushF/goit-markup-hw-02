@@ -84,7 +84,7 @@ a:focus {
 
 .slogan-button:hover,
 .slogan-button:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .feature-title {
@@ -93,7 +93,7 @@ a:focus {
   font-style: normal;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.045em;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
 }
@@ -127,7 +127,7 @@ a:focus {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.045em;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 
